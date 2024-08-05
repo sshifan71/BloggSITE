@@ -33,3 +33,5 @@ def delete_product(request,pk):
 
 def home(request):
     return HttpResponse('Hello, Blogger!!')
+
+#need to add indivisual user accounts
