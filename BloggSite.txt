@@ -1,0 +1,11 @@
+So we will be making a One SuperUser in the terminal to add
+data to the database. This will be a BLOGGING SITE.
+So far we have done:
+    1. Added an app called Gallery
+    2. We are calling each Blogg a 'Product'. In models file
+        we have defined a class named Product and specified
+        its objects i.e Name,Description,Image etc.
+    3. In the models file, we have also added 2 more functions.
+        one is to edit the previous entry and the other one is to
+        shorten the description to be showable.
+    4. 
